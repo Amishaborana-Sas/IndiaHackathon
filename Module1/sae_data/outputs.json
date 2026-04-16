@@ -1,0 +1,228 @@
+{
+  "outputs": [
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "reversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T08:46:39.401221Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient [ID-PER-05ab21]: [ID-PER-268caf]\nAge: 52\nGender: Male\nAddress: [ID-ADR-de57ae]\nAadhaar Number: [ID-UID-5a611e]\nPhone number: [ID-PHN-69e723]\nHospital: [ID-ORG-6b9c43]\nDoctor: [ID-PER-0b8cad]\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient [ID-PER-268caf] developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to [ID-ORG-4bd3e4] on [ID-DAT-2a4eb2]. His condition worsened and requir"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T08:48:58.334533Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "reversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T09:53:57.614281Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient [ID-PER-05ab21]: [ID-PER-268caf]\nAge: 52\nGender: Male\nAddress: [ID-ADR-de57ae]\nAadhaar Number: [ID-UID-5a611e]\nPhone number: [ID-PHN-69e723]\nHospital: [ID-ORG-6b9c43]\nDoctor: [ID-PER-0b8cad]\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient [ID-PER-268caf] developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to [ID-ORG-4bd3e4] on [ID-DAT-2a4eb2]. His condition worsened and requir"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T09:54:08.402943Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T11:46:10.433229Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "reversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T11:46:16.986611Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient [ID-PER-05ab21]: [ID-PER-268caf]\nAge: 52\nGender: Male\nAddress: [ID-ADR-de57ae]\nAadhaar Number: [ID-UID-5a611e]\nPhone number: [ID-PHN-69e723]\nHospital: [ID-ORG-6b9c43]\nDoctor: [ID-PER-0b8cad]\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient [ID-PER-268caf] developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to [ID-ORG-4bd3e4] on [ID-DAT-2a4eb2]. His condition worsened and requir"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "reversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T13:25:11.826194Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient [ID-PER-05ab21]: [ID-PER-268caf]\nAge: 52\nGender: Male\nAddress: [ID-ADR-de57ae]\nAadhaar Number: [ID-UID-5a611e]\nPhone number: [ID-PHN-69e723]\nHospital: [ID-ORG-6b9c43]\nDoctor: [ID-PER-0b8cad]\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient [ID-PER-268caf] developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to [ID-ORG-4bd3e4] on [ID-DAT-2a4eb2]. His condition worsened and requir"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T13:25:19.547093Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T13:34:25.499133Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "reversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T13:34:35.562839Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient [ID-PER-05ab21]: [ID-PER-268caf]\nAge: 52\nGender: Male\nAddress: [ID-ADR-de57ae]\nAadhaar Number: [ID-UID-5a611e]\nPhone number: [ID-PHN-69e723]\nHospital: [ID-ORG-6b9c43]\nDoctor: [ID-PER-0b8cad]\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient [ID-PER-268caf] developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to [ID-ORG-4bd3e4] on [ID-DAT-2a4eb2]. His condition worsened and requir"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T13:59:06.050316Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T14:08:21.085219Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T14:21:32.792404Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "reversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T14:21:43.001923Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient [ID-PER-05ab21]: [ID-PER-268caf]\nAge: 52\nGender: Male\nAddress: [ID-ADR-de57ae]\nAadhaar Number: [ID-UID-5a611e]\nPhone number: [ID-PHN-69e723]\nHospital: [ID-ORG-6b9c43]\nDoctor: [ID-PER-0b8cad]\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient [ID-PER-268caf] developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to [ID-ORG-4bd3e4] on [ID-DAT-2a4eb2]. His condition worsened and requir"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T14:51:02.522046Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "reversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T14:51:15.478590Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient [ID-PER-05ab21]: [ID-PER-268caf]\nAge: 52\nGender: Male\nAddress: [ID-ADR-de57ae]\nAadhaar Number: [ID-UID-5a611e]\nPhone number: [ID-PHN-69e723]\nHospital: [ID-ORG-6b9c43]\nDoctor: [ID-PER-0b8cad]\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient [ID-PER-268caf] developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to [ID-ORG-4bd3e4] on [ID-DAT-2a4eb2]. His condition worsened and requir"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T14:51:23.660787Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "reversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T14:51:29.191034Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient [ID-PER-05ab21]: [ID-PER-268caf]\nAge: 52\nGender: Male\nAddress: [ID-ADR-de57ae]\nAadhaar Number: [ID-UID-5a611e]\nPhone number: [ID-PHN-69e723]\nHospital: [ID-ORG-6b9c43]\nDoctor: [ID-PER-0b8cad]\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient [ID-PER-268caf] developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to [ID-ORG-4bd3e4] on [ID-DAT-2a4eb2]. His condition worsened and requir"
+    },
+    {
+      "file_id": "DOC-A2BD30E1CAD5",
+      "file_hash": "a2bd30e1cad558a2de2c7e5c32c394f5cbd9f59f667604b806774fb575ec114d",
+      "mode": "irreversible",
+      "num_entities": 8,
+      "timestamp": "2026-04-15T15:10:15.777745Z",
+      "processed_text_preview": "SAE Report: Serious Unexpected Adverse Drug Reaction - Stevens-Johnson Syndrome \nPatient: 28-year-old female. Weight 58kg. Indication: ************. \nSuspected drug: ************mg twice daily started 01 March 2025 at ************. \n************ medication: Folic acid 5mg daily. \nEvent: ************. Onset day 21 of treatment. \nPatient presented 02 April 2025 with widespread skin blistering and mucosal erosions. \nMucosal involvement: oral cavity conjunctiva and genitalia affected. \nBody surface "
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T15:16:20.478155Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "reversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T15:28:14.235112Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient [ID-PER-05ab21]: [ID-PER-268caf]\nAge: 52\nGender: Male\nAddress: [ID-ADR-de57ae]\nAadhaar Number: [ID-UID-5a611e]\nPhone number: [ID-PHN-69e723]\nHospital: [ID-ORG-6b9c43]\nDoctor: [ID-PER-0b8cad]\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient [ID-PER-268caf] developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to [ID-ORG-4bd3e4] on [ID-DAT-2a4eb2]. His condition worsened and requir"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-15T15:28:17.570278Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-B18DAB8B840F",
+      "file_hash": "b18dab8b840fcfa52f6414ad92ed2321d957fefce5f18f4f621189c3caba5a93",
+      "mode": "reversible",
+      "num_entities": 56,
+      "timestamp": "2026-04-16T11:10:47.798248Z",
+      "processed_text_preview": "[ID-PER-4b1e57]\n[ID-ORG-db4606]\nCDSCO-IndiaAI [ID-PER-d6604a]\nSAS-AI\nApril 2026\nConfidential - For Hackathon Evaluation Only\n1. Executive Summary\n[ID-PER-4b1e57] is an AI-powered document anonymization platform developed by SAS-AI for the CDSCO-IndiaAI [ID-LOC-673b1c]. The platform processes regulatory healthcare documents (GMP inspection reports, SAE forms, QMS procedures, clinical trial documents) and automatically detects and redacts [ID-ORG-fe44bb] (PII) and [ID-ORG-22cd2f] (PHI).\nThe system"
+    },
+    {
+      "file_id": "DOC-AEFBE9CBB49F",
+      "file_hash": "aefbe9cbb49fed983d2a3cc1d521d8a427710c75f19f01733d1a0653f27d73bc",
+      "mode": "irreversible",
+      "num_entities": 6,
+      "timestamp": "2026-04-16T11:49:52.024796Z",
+      "processed_text_preview": "SANTOSH YELDE -\n************\nBusiness & Partnership\nAI-CURE ACADEMY\n(Reports to CEO)\nAYUSHI GADEKAR -\nHEAD BD\nSales & Strategic Deals\nSAS AI GATEWAY\n((Reports to CEO))\n************\nBDM\nTechnology & platform\n(Reports to CTO)\nYL PRASAD - CTO\nISHA BANDEKKAR\nBio Spl & Drug\nDiscovery\nAMISHA BORANA\n************\nNINAD NASIKKAR\n************\n************\n************\nRAJAN PARDESHI\nCOMP BIOLOGIST"
+    },
+    {
+      "file_id": "DOC-AFCAD739F70E",
+      "file_hash": "afcad739f70e2f52cd47b2bd0a3c9073e40cd79b19587ff9d1200cf1b621797c",
+      "mode": "irreversible",
+      "num_entities": 55,
+      "timestamp": "2026-04-16T11:51:20.699464Z",
+      "processed_text_preview": "Senior ************ \n************, ************ 2025 – Jan 2026 \n************ \n************ | ************ | P: ************ \nResults-driven professional with 8 years of experience in the software industry, specializing in account management and business development. \nProven ability to engage C-level stakeholders, manage complete sales cycles, and drive revenue through tailored tech solutions. Skilled in CRM, \npartner/vendor management, and delivering persuasive presentations. Strong track recor"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "reversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-16T13:20:55.256474Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient [ID-PER-05ab21]: [ID-PER-268caf]\nAge: 52\nGender: Male\nAddress: [ID-ADR-de57ae]\nAadhaar Number: [ID-UID-5a611e]\nPhone number: [ID-PHN-69e723]\nHospital: [ID-ORG-6b9c43]\nDoctor: [ID-PER-0b8cad]\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient [ID-PER-268caf] developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to [ID-ORG-4bd3e4] on [ID-DAT-2a4eb2]. His condition worsened and requir"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-16T13:20:59.155057Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    },
+    {
+      "file_id": "DOC-976977766BAA",
+      "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+      "mode": "irreversible",
+      "num_entities": 14,
+      "timestamp": "2026-04-16T13:53:09.136938Z",
+      "processed_text_preview": "SERIOUS ADVERSE EVENT (SAE) REPORT\nPatient ************: ************\nAge: 52\nGender: Male\nAddress: ************\nAadhaar Number: ************\nPhone number: ************\nHospital: ************\nDoctor: ************\nSuspected Drug: Paracetamol 500mg\nDose: Twice daily for 5 days\nEvent Description:\nPatient ************ developed severe liver toxicity after consuming Paracetamol for 5 days. He was admitted to ************ on ************. His condition worsened and required ICU admission.\nMedical Hist"
+    }
+  ]
+}

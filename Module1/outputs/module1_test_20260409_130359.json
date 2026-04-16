@@ -1,0 +1,78 @@
+{
+  "module": "module1_anonymisation",
+  "version": "0.1",
+  "timestamp": "2026-04-09T13:03:59.911250Z",
+  "input": {
+    "source": "C:\\Users\\A\\Work\\Work april\\Hackathon\\Module1\\test.json",
+    "source_type": "json",
+    "is_scanned": false,
+    "metadata": {
+      "top_level_type": "dict"
+    }
+  },
+  "output": {
+    "anonymised_text": "patient_name: <PERSON_4fca4d4f46ed>: [AADHAAR]\nphone: [PHONE]\nemail: [CONTACT]\nhospital: INDIA\ndate: 2024-XX-XX\ntrial_id: <DRUG_ID_1c2beda314d9>",
+    "mode": "two_step",
+    "num_entities_detected": 7,
+    "entities_by_type": {
+      "PERSON": 1,
+      "AADHAAR": 1,
+      "IN_PHONE": 1,
+      "EMAIL_ADDRESS": 1,
+      "LOCATION": 1,
+      "DATE_TIME": 1,
+      "DRUG_ID": 1
+    },
+    "spans": [
+      {
+        "start": 14,
+        "end": 34,
+        "entity": "PERSON",
+        "score": 0.85
+      },
+      {
+        "start": 36,
+        "end": 50,
+        "entity": "AADHAAR",
+        "score": 0.95
+      },
+      {
+        "start": 58,
+        "end": 72,
+        "entity": "IN_PHONE",
+        "score": 0.9
+      },
+      {
+        "start": 80,
+        "end": 100,
+        "entity": "EMAIL_ADDRESS",
+        "score": 0.95
+      },
+      {
+        "start": 111,
+        "end": 122,
+        "entity": "LOCATION",
+        "score": 0.85
+      },
+      {
+        "start": 129,
+        "end": 139,
+        "entity": "DATE_TIME",
+        "score": 0.85
+      },
+      {
+        "start": 150,
+        "end": 159,
+        "entity": "DRUG_ID",
+        "score": 0.85
+      }
+    ],
+    "structured_anonymised": null,
+    "vault_size": 2
+  },
+  "compliance": {
+    "two_step_applied": true,
+    "k_anonymity": null,
+    "quasi_identifiers": null
+  }
+}

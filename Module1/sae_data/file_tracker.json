@@ -1,0 +1,307 @@
+{
+  "files": {
+    "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b": {
+      "file_id": "DOC-976977766BAA",
+      "first_seen": "2026-04-15T08:46:39.401221Z",
+      "filenames": [
+        "SERIOUS ADVERSE EVENT.docx",
+        "SERIOUS ADVERSE EVENTS.docx"
+      ],
+      "process_count": 24,
+      "history": [
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "reversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T08:46:39.401221Z",
+          "mapping_count": 12
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T08:48:58.334533Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "reversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T09:53:57.614281Z",
+          "mapping_count": 12
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T09:54:08.402943Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T11:46:10.433229Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "reversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T11:46:16.986611Z",
+          "mapping_count": 12
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "reversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T13:25:11.826194Z",
+          "mapping_count": 12
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T13:25:19.547093Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T13:34:25.499133Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "reversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T13:34:35.562839Z",
+          "mapping_count": 12
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T13:59:06.050316Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T14:08:21.085219Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T14:21:32.792404Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENT.docx",
+          "mode": "reversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T14:21:43.001923Z",
+          "mapping_count": 12
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENTS.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T14:51:02.522046Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENTS.docx",
+          "mode": "reversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T14:51:15.478590Z",
+          "mapping_count": 12
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENTS.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T14:51:23.660787Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENTS.docx",
+          "mode": "reversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T14:51:29.191034Z",
+          "mapping_count": 12
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENTS.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T15:16:20.478155Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENTS.docx",
+          "mode": "reversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T15:28:14.235112Z",
+          "mapping_count": 12
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENTS.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-15T15:28:17.570278Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENTS.docx",
+          "mode": "reversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-16T13:20:55.256474Z",
+          "mapping_count": 12
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENTS.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-16T13:20:59.155057Z",
+          "mapping_count": 0
+        },
+        {
+          "file_id": "DOC-976977766BAA",
+          "file_hash": "976977766baaaa90c9a4cc5ebcaf26dec18d9c535bc077db1498c331b12e589b",
+          "filename": "SERIOUS ADVERSE EVENTS.docx",
+          "mode": "irreversible",
+          "entities_count": 14,
+          "timestamp": "2026-04-16T13:53:09.136938Z",
+          "mapping_count": 0
+        }
+      ]
+    },
+    "a2bd30e1cad558a2de2c7e5c32c394f5cbd9f59f667604b806774fb575ec114d": {
+      "file_id": "DOC-A2BD30E1CAD5",
+      "first_seen": "2026-04-15T15:10:15.777745Z",
+      "filenames": [
+        "SAE Report.pdf"
+      ],
+      "process_count": 1,
+      "history": [
+        {
+          "file_id": "DOC-A2BD30E1CAD5",
+          "file_hash": "a2bd30e1cad558a2de2c7e5c32c394f5cbd9f59f667604b806774fb575ec114d",
+          "filename": "SAE Report.pdf",
+          "mode": "irreversible",
+          "entities_count": 8,
+          "timestamp": "2026-04-15T15:10:15.777745Z",
+          "mapping_count": 0
+        }
+      ]
+    },
+    "b18dab8b840fcfa52f6414ad92ed2321d957fefce5f18f4f621189c3caba5a93": {
+      "file_id": "DOC-B18DAB8B840F",
+      "first_seen": "2026-04-16T11:10:47.798248Z",
+      "filenames": [
+        "VERSION_HISTORY.docx"
+      ],
+      "process_count": 1,
+      "history": [
+        {
+          "file_id": "DOC-B18DAB8B840F",
+          "file_hash": "b18dab8b840fcfa52f6414ad92ed2321d957fefce5f18f4f621189c3caba5a93",
+          "filename": "VERSION_HISTORY.docx",
+          "mode": "reversible",
+          "entities_count": 56,
+          "timestamp": "2026-04-16T11:10:47.798248Z",
+          "mapping_count": 52
+        }
+      ]
+    },
+    "aefbe9cbb49fed983d2a3cc1d521d8a427710c75f19f01733d1a0653f27d73bc": {
+      "file_id": "DOC-AEFBE9CBB49F",
+      "first_seen": "2026-04-16T11:49:52.024796Z",
+      "filenames": [
+        "Untitled Diagram.drawio.pdf"
+      ],
+      "process_count": 1,
+      "history": [
+        {
+          "file_id": "DOC-AEFBE9CBB49F",
+          "file_hash": "aefbe9cbb49fed983d2a3cc1d521d8a427710c75f19f01733d1a0653f27d73bc",
+          "filename": "Untitled Diagram.drawio.pdf",
+          "mode": "irreversible",
+          "entities_count": 6,
+          "timestamp": "2026-04-16T11:49:52.024796Z",
+          "mapping_count": 0
+        }
+      ]
+    },
+    "afcad739f70e2f52cd47b2bd0a3c9073e40cd79b19587ff9d1200cf1b621797c": {
+      "file_id": "DOC-AFCAD739F70E",
+      "first_seen": "2026-04-16T11:51:20.699464Z",
+      "filenames": [
+        "Rajesh Yadav_CV.pdf"
+      ],
+      "process_count": 1,
+      "history": [
+        {
+          "file_id": "DOC-AFCAD739F70E",
+          "file_hash": "afcad739f70e2f52cd47b2bd0a3c9073e40cd79b19587ff9d1200cf1b621797c",
+          "filename": "Rajesh Yadav_CV.pdf",
+          "mode": "irreversible",
+          "entities_count": 55,
+          "timestamp": "2026-04-16T11:51:20.699464Z",
+          "mapping_count": 0
+        }
+      ]
+    }
+  }
+}

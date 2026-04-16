@@ -1,0 +1,145 @@
+{
+  "module": "module1_anonymisation",
+  "version": "0.1",
+  "timestamp": "2026-04-08T05:22:19.999335Z",
+  "input": {
+    "source": "C:\\Users\\A\\OneDrive - SAS AI GATEWAY PRIVATE LIMITED\\Documents\\Job CV\\Kamlesh Kature Resume.pdf",
+    "source_type": "pdf",
+    "is_scanned": false,
+    "metadata": {
+      "pages": 1,
+      "ocr_used": false
+    }
+  },
+  "output": {
+    "anonymised_text": "[REDACTED] U R E\n[REDACTED]\nCAREER OBJECTIVE\nSeeking a challenging position in a dynamic\norganization where I can leverage my analytical skills\nand business acumen to contribute to strategic\ndecision-making and drive growth.\nPERSONAL EDUCATION\nINFORMATION\n[REDACTED], INDIA\nName : <PERSON_720696bf2ea6> Master in [REDACTED] in Marketing and\nInternational Business\nEmail: [CONTACT]\nPursing\nMobile No.: [PHONE]\n[REDACTED], Nashik\nLinkedIn Profile: Kamlesh Kature\nBachelor of Pharmacy\nDate of Birth: 2001-XX-XX\nCompleted in 2023 with 79.60 %\nAddress: A/P <PERSON_38e026a989c4>,\n<PERSON_afd47347708e> and [REDACTED], <PERSON_a37ddbf5efe2>, Nashik\nHigher Secondary Certificate\nSKILLS Completed in 2019 with 70.62 %\nSwami <PERSON_ae18c82bdd43>, Yeola\nMicrosoft Word,\nSenior Secondary Certificate\nPowerPoint and Excel\nCompleted in 2017 with 91.80 %\nAdaptability\nDisciplined\nCERTIFICATIONS\nLeadership\nCertification of TCS ION in [REDACTED] under Life skills\nprogram organized by [REDACTED]\nLANGUAGES\n[REDACTED]\nHindi\nMarathi",
+    "mode": "two_step",
+    "num_entities_detected": 18,
+    "entities_by_type": {
+      "ORGANIZATION": 8,
+      "LOCATION": 1,
+      "PERSON": 5,
+      "EMAIL_ADDRESS": 1,
+      "IN_PHONE": 1,
+      "DATE_TIME": 1,
+      "NRP": 1
+    },
+    "spans": [
+      {
+        "start": 0,
+        "end": 19,
+        "entity": "ORGANIZATION",
+        "score": 0.85
+      },
+      {
+        "start": 26,
+        "end": 66,
+        "entity": "ORGANIZATION",
+        "score": 0.85
+      },
+      {
+        "start": 295,
+        "end": 325,
+        "entity": "ORGANIZATION",
+        "score": 0.85
+      },
+      {
+        "start": 327,
+        "end": 331,
+        "entity": "LOCATION",
+        "score": 0.85
+      },
+      {
+        "start": 339,
+        "end": 363,
+        "entity": "PERSON",
+        "score": 0.85
+      },
+      {
+        "start": 374,
+        "end": 396,
+        "entity": "ORGANIZATION",
+        "score": 0.85
+      },
+      {
+        "start": 444,
+        "end": 469,
+        "entity": "EMAIL_ADDRESS",
+        "score": 0.95
+      },
+      {
+        "start": 490,
+        "end": 500,
+        "entity": "IN_PHONE",
+        "score": 0.9
+      },
+      {
+        "start": 501,
+        "end": 530,
+        "entity": "ORGANIZATION",
+        "score": 0.85
+      },
+      {
+        "start": 608,
+        "end": 618,
+        "entity": "DATE_TIME",
+        "score": 0.85
+      },
+      {
+        "start": 663,
+        "end": 672,
+        "entity": "PERSON",
+        "score": 0.85
+      },
+      {
+        "start": 674,
+        "end": 692,
+        "entity": "PERSON",
+        "score": 0.85
+      },
+      {
+        "start": 697,
+        "end": 707,
+        "entity": "ORGANIZATION",
+        "score": 0.85
+      },
+      {
+        "start": 709,
+        "end": 724,
+        "entity": "PERSON",
+        "score": 0.85
+      },
+      {
+        "start": 806,
+        "end": 825,
+        "entity": "PERSON",
+        "score": 0.85
+      },
+      {
+        "start": 1009,
+        "end": 1108,
+        "entity": "ORGANIZATION",
+        "score": 0.85
+      },
+      {
+        "start": 1148,
+        "end": 1155,
+        "entity": "ORGANIZATION",
+        "score": 0.85
+      },
+      {
+        "start": 1166,
+        "end": 1173,
+        "entity": "NRP",
+        "score": 0.85
+      }
+    ],
+    "structured_anonymised": null,
+    "vault_size": 5
+  },
+  "compliance": {
+    "two_step_applied": true,
+    "k_anonymity": null,
+    "quasi_identifiers": null
+  }
+}

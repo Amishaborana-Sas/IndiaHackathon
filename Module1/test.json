@@ -1,0 +1,9 @@
+{
+  "patient_name": "Rajesh Kumar",
+  "aadhaar": "1234 5678 9012",
+  "phone": "+91-9876543210",
+  "email": "rajesh.k@example.com",
+  "hospital": "AIIMS Delhi",
+  "date": "12/03/2024",
+  "trial_id": "IND-12345"
+}

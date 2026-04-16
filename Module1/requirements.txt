@@ -1,0 +1,55 @@
+# =============================================================================
+# CDSCO-IndiaAI Hackathon — Module 1 dependencies
+# =============================================================================
+# Install with:  pip install -r requirements.txt
+#
+# The pipeline is designed to degrade gracefully. The CORE deps below are the
+# minimum needed to run on plain text, CSV, JSON, HTML, and TXT inputs. Install
+# the OPTIONAL groups for more document types.
+# =============================================================================
+
+# ---------- CORE (always needed) ---------------------------------------------
+pandas>=2.0
+
+# ---------- OCR & scanned documents ------------------------------------------
+# Deep-learning OCR via EasyOCR (replaces Tesseract — no system binary needed).
+# Also needs Poppler for scanned PDF → image conversion:
+#   Poppler (Windows): https://github.com/oschwartz10612/poppler-windows/releases
+#     Download, extract to C:\poppler, add C:\poppler\Library\bin to PATH
+#     Or set environment variable: POPPLER_PATH=C:\poppler\Library\bin
+#   Poppler (Linux):   sudo apt install poppler-utils
+#   Poppler (macOS):   brew install poppler
+easyocr>=1.7.1
+opencv-python-headless>=4.9.0
+numpy>=1.26
+pdfplumber>=0.11.0
+pdf2image>=1.17.0
+Pillow>=10.2.0
+
+# ---------- Optional: PaddleOCR (alternative OCR engine) ---------------------
+# Set OCR_ENGINE=paddleocr in environment or ocr_config.py to use.
+# paddlepaddle>=2.6.0
+# paddleocr>=2.7.0
+
+# ---------- Office formats (optional) ----------------------------------------
+python-docx>=1.1.0
+openpyxl>=3.1.0
+
+# ---------- Advanced NER (optional, ~700 MB) ---------------------------------
+# Hugely improves PERSON / LOCATION / ORGANIZATION detection in free text.
+# Without these, Module 1 still runs and still catches Aadhaar, PAN, phone,
+# email, IND/CDSCO IDs, dates, etc. via regex.
+#
+#   pip install presidio-analyzer spacy
+#   python -m spacy download en_core_web_lg
+presidio-analyzer>=2.2.355
+spacy>=3.7.0
+
+# ---------- Encrypted vault (optional, only if you use vault.py / api.py) ----
+cryptography>=42.0.0
+
+# ---------- HTTP API (optional, only for api.py) -----------------------------
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+pydantic>=2.6.0
